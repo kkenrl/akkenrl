@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Без рубрики &#8212; akkenrl</title>
+	<atom:link href="/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>маленький сайт для маленьких начинаний</description>
+	<lastBuildDate>Mon, 30 Oct 2023 19:57:22 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Добро пожаловать</title>
+		<link>/2023/10/30/55/</link>
+					<comments>/2023/10/30/55/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikita Ennrl]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2023 19:48:33 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">/?p=55</guid>
+
+					<description><![CDATA[И так, я рад приветствовать вас на новом сайте. Здесь будут публиковаться все возможные мои...]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.akkenrl.com/content/2023/10/30/post.png" alt=""/></figure>
+
+
+
+<p>И так, я рад приветствовать вас на новом сайте. Здесь будут публиковаться все возможные мои проекты а также инструкции и исходный код (прям как на github). Здесь также буду рассказывать что появилось нового и как оно работает. Будут новости из мира ИТ в целом. Ну и немного моей жизни).</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/10/30/55/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
