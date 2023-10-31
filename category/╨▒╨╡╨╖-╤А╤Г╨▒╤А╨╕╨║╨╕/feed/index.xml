@@ -12,7 +12,7 @@
 	<atom:link href="/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>маленький сайт для маленьких начинаний</description>
-	<lastBuildDate>Mon, 30 Oct 2023 19:57:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2023 18:17:19 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,60 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>Apple и новые продукты представленные сегодняшней ночью</title>
+		<link>/2023/10/31/apple-new-products/</link>
+					<comments>/2023/10/31/apple-new-products/#respond</comments>
+		
+		<dc:creator><![CDATA[Nikita Ennrl]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 18:16:37 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">/?p=69</guid>
+
+					<description><![CDATA[Сегодня ночью компания Apple представила новые процессоры Apple Silicon, а именно: Также представили 2 продукта...]]></description>
+										<content:encoded><![CDATA[
+<p>Сегодня ночью компания Apple представила новые процессоры Apple Silicon, а именно:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cdn.akkenrl.com/content/2023/10/31/m3.png" alt=""/></figure>
+
+
+
+<ul>
+<li>Apple Silicon M3</li>
+
+
+
+<li>Apple Silicon M3 Pro</li>
+
+
+
+<li>Apple Silicon M3 Max</li>
+</ul>
+
+
+
+<p>Также представили 2 продукта которые будут работать на данных платформах, а именно:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cdn.akkenrl.com/content/2023/10/31/macbook.png" alt=""/><figcaption class="wp-element-caption">Apple MacBook Pro 14&#8243;, Apple MacBook 16&#8243;</figcaption></figure>
+
+
+
+<figure class="wp-block-video"><video autoplay loop muted src="https://cdn.akkenrl.com/content/2023/10/31/large%20(2).mp4" style="border-radius: 20px;"></video><figcaption class="wp-element-caption">Apple iMac 24&#8243;</figcaption></figure>
+
+
+
+<p>На данный момент это все) презентация была 30 минут, и проходила в 3 часа ночи.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/10/31/apple-new-products/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Добро пожаловать</title>
 		<link>/2023/10/30/55/</link>
 					<comments>/2023/10/30/55/#respond</comments>

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Комментарии на сайте akkenrl	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Комментарии: Apple и новые продукты представленные сегодняшней ночью	</title>
+	<atom:link href="/2023/10/31/apple-new-products/feed/" rel="self" type="application/rss+xml" />
+	<link>/2023/10/31/apple-new-products/</link>
 	<description>маленький сайт для маленьких начинаний</description>
 	<lastBuildDate>Tue, 31 Oct 2023 18:17:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
